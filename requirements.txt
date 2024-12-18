@@ -1,0 +1,9 @@
+streamlit
+transformers
+datasets
+torch
+fugashi
+ipadic
+unidic-lite
+numpy
+pandas
